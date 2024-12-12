@@ -1,7 +1,8 @@
 ThinkPHP Workerman 扩展
 ===============
 
-由于workerman4.x架构调整较大，如需支持Workerman 4.x的版本，请期待新版！
+支持 workerman v4.2.1
+
 ## 安装
 
 composer require topthink/think-worker

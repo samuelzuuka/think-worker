@@ -6,11 +6,16 @@
         {
             "name": "liu21st",
             "email": "liu21st@gmail.com"
+        },
+        {
+            "name": "samuelzuuka",
+            "email": "samuelzuuka@gmail.com"
         }
     ],
     "require": {
-        "workerman/workerman": "^3.5.23",
-        "workerman/gateway-worker": "^3.0.0",
+        "php": ">=8.0.0",
+        "workerman/workerman": "v4.2.1",
+        "workerman/gateway-worker": "v3.1.18",
         "topthink/framework": "^8.0",
         "ext-fileinfo": "*"
     },
